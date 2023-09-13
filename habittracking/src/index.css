@@ -1,0 +1,40 @@
+.background {
+  background-image: url("https://wallpapercave.com/wp/wp6908258.jpg");
+  background-size: 90%;
+  background-position: -350% 30%;
+  /* background-position: right; */
+}
+body {
+  background-image: url("https://w0.peakpx.com/wallpaper/775/944/HD-wallpaper-purple-moon-moonlight-turquoise-moon-purple-red-colors-sonata-thumbnail.jpg");
+  background: rgb(86, 64, 228);
+  background: radial-gradient(
+    circle,
+    rgba(0, 0, 0, 1) 100%,
+    rgba(0, 212, 255, 1) 100%,
+    rgba(1, 0, 5, 1) 100%
+  );
+}
+
+.gradient {
+  background-color: #130f40;
+  background-image: linear-gradient(315deg, #130f40 0%, #000000 74%);
+}
+.gradient1 {
+  background-color: #bb35dc;
+  background-image: url("https://wallpapercrafter.com/desktop/4906-tree-dark-sky-dusk-red-4k.jpg");
+}
+
+.done {
+  color: rgb(25, 204, 55);
+}
+.fail {
+  color: rgb(235, 14, 14);
+}
+.day-headings {
+  color: #12b706;
+}
+
+.text-light {
+  font-family: monospace, "Montserrat", sans-serif;
+  font-size: larger;
+}
